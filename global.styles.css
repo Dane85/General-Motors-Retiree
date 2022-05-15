@@ -84,4 +84,13 @@ body {
     #newsImage{
       width: 100%;
     }
+    #newsVideo{
+      width: 100%;
+    }
+    #newsMap{
+      width: 100%;
+    }
+    #map{
+      width: 100%;
+    }
   }
